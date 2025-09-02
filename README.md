@@ -1,4 +1,4 @@
-# Notificaciones Push con Firebase
+# Notificaciones con Firebase
 
 Este proyecto es una **aplicación de demostración en Android** que implementa la funcionalidad de **notificaciones push** utilizando **Firebase Cloud Messaging (FCM)**.  
 
