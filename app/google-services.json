@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071708684837",
+    "project_id": "ferretool-dd934",
+    "storage_bucket": "ferretool-dd934.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071708684837:android:01ec139f828f6c7419f5cc",
+        "android_client_info": {
+          "package_name": "com.example.ferreteria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO0pUKCInx-jKcJ_gt42mcya_zK7dJauk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

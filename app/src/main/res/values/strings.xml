@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Ferreteria</string>
+    <!--home(informacion) -->
+    <string name="titulohome">Informacion</string>
+    <string name="info_ferreteria">
+    Ferretería El Tornillo Feliz\n
+    Ubicada en Av. Industria 123, Ciudad Herramienta.\n
+    Somos una ferretería con más de 20 años de experiencia ofreciendo productos de calidad para construcción, plomería, electricidad y carpintería.\n
+    Nuestro compromiso es brindarte atención profesional, precios competitivos y un amplio surtido de herramientas y materiales.\n
+    ¡Todo lo que necesitas para construir está aquí!
+</string>
+
+    <string name="titulogaleria">Productos</string>
+
+    <string name="default_notification_channel_id" translatable="false">mi_canal_ferreteria</string>
+
+    <!--Slide(Contacto) -->
+    <string name="correo">Ingresa el correo</string>
+    <string name="telefono">Ingresa el telefono</string>
+    <string name="nombre">Ingresa el nombre</string>
+    <string name="comentarios">Comentarios</string>
+    <string name="tituloslice">Contacto</string>
+    <string name="registrar">Registrar</string>
+
+
+
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Informacion</string>
+    <string name="menu_gallery">Productos</string>
+    <string name="menu_slideshow">Contacto</string>
+
+    <string-array name="Productos">
+        <item>Martillo</item>
+        <item>Espatula</item>
+        <item>Casco</item>
+        <item>Desarmador</item>
+        <item>Pegamento</item>
+        <item>Caja</item>
+    </string-array>
+</resources>
