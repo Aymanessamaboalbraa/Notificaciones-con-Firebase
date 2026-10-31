@@ -10,7 +10,7 @@ import android.widget.Toast
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import com.example.ferreteria.Ferreteria
-import com.example.ferreteria.databinding.FragmentSlideshowBinding
+import com.ayatschool.quickchat.databinding.FragmentSlideshowBinding
 
 class SlideshowFragment : Fragment() {
 
