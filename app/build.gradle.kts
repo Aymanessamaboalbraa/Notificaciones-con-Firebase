@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.ferreteria"
+    namespace = "com.ayatschool.quickchat"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.ferreteria"
+        applicationId = "com.ayatschool.quickchat"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
