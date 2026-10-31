@@ -5,19 +5,16 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ArrayAdapter
-import android.widget.TextView
 import android.widget.Toast
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import com.ayatschool.quickchat.Ferreteria
 import com.ayatschool.quickchat.databinding.FragmentSlideshowBinding
+import com.example.ferreteria.ui.slideshow.SlideshowViewModel
+import com.example.ferreteria.Ferreteria
 
 class SlideshowFragment : Fragment() {
 
     private var _binding: FragmentSlideshowBinding? = null
-
-    // This property is only valid between onCreateView and
-    // onDestroyView.
     private val binding get() = _binding!!
 
     override fun onCreateView(
@@ -25,8 +22,7 @@ class SlideshowFragment : Fragment() {
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View {
-        val slideshowViewModel =
-            ViewModelProvider(this).get(SlideshowViewModel::class.java)
+        val slideshowViewModel = ViewModelProvider(this).get(SlideshowViewModel::class.java)
 
         _binding = FragmentSlideshowBinding.inflate(inflater, container, false)
         val root: View = binding.root
