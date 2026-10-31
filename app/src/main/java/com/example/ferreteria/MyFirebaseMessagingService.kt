@@ -1,4 +1,4 @@
-package com.example.ferreteria
+package com.ayatschool.quickchat
 
 import android.util.Log
 import com.google.firebase.messaging.FirebaseMessagingService
