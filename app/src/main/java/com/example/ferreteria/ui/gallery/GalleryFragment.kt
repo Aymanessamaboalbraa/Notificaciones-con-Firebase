@@ -1,4 +1,4 @@
-package com.example.ferreteria.ui.gallery
+package com.ayatschool.quickchat.ui.gallery
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -29,8 +29,6 @@ class GalleryFragment : Fragment() {
         _binding = FragmentGalleryBinding.inflate(inflater, container, false)
         val root: View = binding.root
 
-        
-
         binding.imgAlambre.setOnClickListener { Toast.makeText(activity,"Alambre",Toast.LENGTH_SHORT).show() }
 
         binding.imgespatula.setOnClickListener { Toast.makeText(activity,"Espatula",Toast.LENGTH_SHORT).show() }
@@ -51,10 +49,6 @@ class GalleryFragment : Fragment() {
 
         binding.imgDesarmador.setOnClickListener { Toast.makeText(activity,"Desarmador",Toast.LENGTH_SHORT).show() }
         return root
-
-
-
-
     }
 
     override fun onDestroyView() {
