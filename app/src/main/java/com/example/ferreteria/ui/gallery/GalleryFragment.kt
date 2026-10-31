@@ -8,7 +8,7 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import com.example.ferreteria.databinding.FragmentGalleryBinding
+import com.ayatschool.quickchat.databinding.FragmentGalleryBinding
 
 class GalleryFragment : Fragment() {
 
