@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "1071708684837",
-    "project_id": "ferretool-dd934",
-    "storage_bucket": "ferretool-dd934.firebasestorage.app"
+    "project_number": "80325934845",
+    "project_id": "ayat-school",
+    "storage_bucket": "ayat-school.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1071708684837:android:01ec139f828f6c7419f5cc",
+        "mobilesdk_app_id": "1:80325934845:android:523fac3b3e4018a477c894",
         "android_client_info": {
-          "package_name": "com.example.ferreteria"
+          "package_name": "com.ayatschool.quickchat"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCO0pUKCInx-jKcJ_gt42mcya_zK7dJauk"
+          "current_key": "AIzaSyCy1C_2cc1I52F14jLxyrcaBkS4I8Lqv0c"
         }
       ],
       "services": {
