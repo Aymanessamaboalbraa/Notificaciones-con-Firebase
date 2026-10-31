@@ -1,4 +1,4 @@
-package com.example.ferreteria.ui.home
+package com.ayatschool.quickchat.ui.home
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -27,7 +27,6 @@ class HomeFragment : Fragment() {
 
         _binding = FragmentHomeBinding.inflate(inflater, container, false)
         val root: View = binding.root
-
 
         return root
     }
